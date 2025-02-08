@@ -1,6 +1,7 @@
 import 'package:ecommerce_vkool/pages/auth/login.dart';
 import 'package:ecommerce_vkool/pages/cart/cart_page.dart';
 import 'package:ecommerce_vkool/pages/face_recognition/face_recognition.dart';
+import 'package:ecommerce_vkool/pages/face_recognition/face_recognition_page.dart';
 import 'package:ecommerce_vkool/pages/home/homescreen.dart';
 import 'package:ecommerce_vkool/pages/product/product_page.dart';
 import 'package:ecommerce_vkool/pages/transaction/transaction_page.dart';
