@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418304471668",
+    "project_id": "e-commerce-app-f409e",
+    "storage_bucket": "e-commerce-app-f409e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418304471668:android:66bd7ad9366deeb140d721",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_vkool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtktBxzc_jFVYaTAYZZDvv2Y98_Ieo2Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
