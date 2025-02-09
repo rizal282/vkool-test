@@ -36,7 +36,7 @@ class _CartPageState extends State<CartPage> {
         BlocProvider(
           create: (context) => CheckoutBloc(
               firestore: FirebaseFirestore.instance,
-              auth: FirebaseAuth.instance), // Pastikan CheckoutBloc ada di sini
+              auth: FirebaseAuth.instance), 
         ),
         BlocProvider(
           create: (context) => PaymentBloc(
@@ -44,7 +44,7 @@ class _CartPageState extends State<CartPage> {
               firestore: FirebaseFirestore.instance,
               auth: FirebaseAuth.instance,
             ),
-          )..add(LoadOrders()), // Ensure you load the orders when initialized
+          )..add(LoadOrders()), 
         ),
       ],
       child: Scaffold(
